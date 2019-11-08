@@ -1,0 +1,15 @@
+com/zgb/agent/AgentMainDemo$DefinedTransformer.class
+com/zgb/premain/PremainDemo$PremainTransformer.class
+com/zgb/ByteCodeDemo.class
+com/zgb/agent/TestAgentMain.class
+com/zgb/agent/TargetDemo.class
+com/zgb/premain/TestPremainDemo.class
+com/zgb/agent/AgentMainDemo.class
+com/zgb/TestRunningClassReload.class
+com/zgb/premain/PremainDemo.class
+com/zgb/btrace/TargetDemo.class
+com/zgb/MyClassVisitor$MyMethodVisitor.class
+com/zgb/MyClassVisitor.class
+com/zgb/JavassistDemo.class
+com/zgb/AsmGenerator.class
+com/zgb/AsmGeneratorTest.class
